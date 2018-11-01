@@ -46,7 +46,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wbraganca\\dynamicform\\": "src"
+            "marcoatjunior\\dynamicform\\": "src"
         }
     }
 }
