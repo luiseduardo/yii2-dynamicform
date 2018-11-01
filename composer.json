@@ -1,9 +1,10 @@
 {
-    "name": "vivekmarakana/yii2-dynamicform",
+    "name": "marcoatjunior/yii2-dynamicform",
     "description": "It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.",
     "keywords": [
         "wbraganca",
         "vivekmarakana",
+        "marcoatjunior",
         "yii2",
         "extension",
         "widget",
@@ -14,9 +15,9 @@
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/vivekmarakana/yii2-dynamicform/issues",
-        "wiki": "https://github.com/vivekmarakana/yii2-dynamicform/wiki/",
-        "source": "https://github.com/vivekmarakana/yii2-dynamicform"
+        "issues": "https://github.com/marcoatjunior/yii2-dynamicform/issues",
+        "wiki": "https://github.com/marcoatjunior/yii2-dynamicform/wiki/",
+        "source": "https://github.com/marcoatjunior/yii2-dynamicform"
     },
     "authors": [
         {
@@ -28,6 +29,11 @@
             "name": "Vivek Marakana",
             "email": "vivek.marakana@gmail.com",
             "homepage": "http://htmlcsstutor.com"
+        },
+        {
+            "name": "Marco Taborda",
+            "email": "marcotaborda.jr@gmail.com",
+            "homepage": ""
         }
     ],
     "require": {
